@@ -230,3 +230,8 @@ Frontend production build verification (`next build` & `tsc --noEmit`):
 
 **Q: Why not just discount every expiring item?**  
 *A:* Naive discounts degrade brand margin and frequently fail when store foot traffic is inadequate. If a downtown store has only 15 shoppers a day, discounting 80 milk gallons cannot sell them all before expiry. FreshGuard AI evaluates sister-store transfers, rescuing 100% of volume at full price where demand exists.
+
+
+
+PROJECT LINK :
+https://freshguard-ai-gamma.vercel.app/
